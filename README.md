@@ -1,2 +1,2 @@
-# logWatcher
-A watcher to detect updates in log file
+# fileWatcher
+A watcher to detect updates in file
